@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient( red, blue);
+    min-width: 100vh;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}
+
+input{
+    margin: 15px;
+    background-color: rgb(224, 209, 209);
+    text-align: center;
+    height: 30px;
+}
+
+.resultado{
+    width: 200px;
+}
+
+button{
+    background-color: rgb(188, 190, 193);
+    width: 150px;
+    height: 30px;
+    border-style: none;
+}
